@@ -1,0 +1,23 @@
+{
+  "name": "ibookabc",
+  "version": "1.0.0",
+  "description": "琼瑶作品合集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangchaohui1102/ibookabc.git"
+  },
+  "keywords": [],
+  "author": "zhangchaohui1102",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangchaohui1102/ibookabc/issues"
+  },
+  "homepage": "https://github.com/zhangchaohui1102/ibookabc#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
